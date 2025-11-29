@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm Vedant Bagave, a passionate Front-End Developer and Flutter Developer currently pursuing my undergraduate degree in Information Technology. I have a deep love for technology and enjoy exploring the ever-evolving tech landscape.<br><br> 🌱 Currently Learning: Advanced Flutter techniques and JavaScript frameworks.<br>🔭 Current Project: DeepShift APP(React Native) & Venture App(Flutter) <br>🤝 Looking to Collaborate On: Exciting front-end and Flutter projects.<br>🎨 Hobbies: Designing user interfaces, reading tech blogs, and experimenting with new technologies.</p>
+<p align="left">I'm Vedant Bagave, a passionate Front-End Developer and Flutter Developer currently pursuing my undergraduate degree in Information Technology. I have a deep love for technology and enjoy exploring the ever-evolving tech landscape.<br><br> 🌱 Currently Learning: Advanced Flutter techniques and JavaScript frameworks.<br>🔭 Current Project: DeepShift App(React Native) & Venture App(Flutter) <br>🤝 Looking to Collaborate On: Exciting front-end and Flutter projects.<br>🎨 Hobbies: Designing user interfaces, reading tech blogs, and experimenting with new technologies.</p>
 
 ###
 ---
